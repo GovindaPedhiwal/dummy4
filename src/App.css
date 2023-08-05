@@ -1,0 +1,18 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+ }
+
+.row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: darkseagreen;
+    flex-wrap: wrap;
+}
+.row h1 {
+    flex: 30%;
+    margin: 5px;
+    border: 12px solid gray;
+}
