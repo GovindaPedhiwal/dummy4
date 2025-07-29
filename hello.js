@@ -1,3 +1,7 @@
 function first() {
     
 }
+
+function second() {
+    
+}
