@@ -12,3 +12,7 @@ function third() {
 function fourth() {
     
 }
+
+function a() {
+    
+}
