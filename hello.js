@@ -14,5 +14,12 @@ function fourth() {
 }
 
 function a() {
+
+}
+
+function c() {
+
+}
+function d() {
     
 }
