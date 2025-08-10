@@ -18,5 +18,9 @@ function a() {
 }
 
 function Temp1() {
+
+}
+
+function Temp2() {
     
 }
